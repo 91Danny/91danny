@@ -25,7 +25,7 @@
 <div align="center">
 
 ### **INFRASTRUCTURE & PLATFORMS**
-<img src="https://img.shields.io/badge/CI-CD-pipelines-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2DCD-pipelines-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
 <img src="https://img.shields.io/badge/Magento-Administration-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
 <img src="https://img.shields.io/badge/Shopware-Deployment-DA0A13?style=for-the-badge&logo=shopware&logoColor=white" />
 <img src="https://img.shields.io/badge/LEMP-Stack_Expert-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
