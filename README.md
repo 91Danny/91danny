@@ -22,69 +22,48 @@
 
 ## 🛠 **TECHNICAL EXPERTISE**
 
-<table align="center">
-  <tr>
-    <td width="50%">
+<div align="center">
 
-### **🏗️ INFRASTRUCTURE**
-```bash
-# eCommerce Platforms
-▸ Magento Administration
-▸ Shopware Deployment
-▸ LEMP Stack Expert
+### **INFRASTRUCTURE & PLATFORMS**
+<img src="https://img.shields.io/badge/Magento-Administration-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopware-Deployment-DA0A13?style=for-the-badge&logo=shopware&logoColor=white" />
+<img src="https://img.shields.io/badge/LEMP-Stack_Expert-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/cPanel/WHM-Professional-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Hosting-Management-008080?style=for-the-badge&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/Server-Administration-228B22?style=for-the-badge&logo=server&logoColor=white" />
 
-# Control Panels
-▸ cPanel/WHM Professional
-▸ Web Hosting Management
-▸ Server Administration
-```
+### **CLOUD & CERTIFICATIONS**
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-Infrastructure-0078D4?style=for-the-badge&logo=cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Scalable-Deployments-2E8B57?style=for-the-badge&logo=scale&logoColor=white" />
 
-### **☁️ CLOUD & CERTIFICATIONS**
-```bash
-# AWS Certified
-▸ Solutions Architect
-▸ Cloud Infrastructure
-▸ Scalable Deployments
+### **OPERATING SYSTEMS & SCRIPTING**
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/System-Automation-008080?style=for-the-badge&logo=terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Performance-Tuning-DC143C?style=for-the-badge&logo=speedtest&logoColor=white" />
+<img src="https://img.shields.io/badge/Process-Optimization-228B22?style=for-the-badge&logo=settings&logoColor=white" />
 
-# Red Hat Certified
-▸ RHCE (Red Hat Engineer)
-▸ RHCSA (System Admin)
-▸ Enterprise Linux
-```
+### **WEB SERVERS & DATABASES**
+<img src="https://img.shields.io/badge/Nginx-Configuration-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-Optimization-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Administration-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/High_Performance-Setup-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-Optimization-2E8B57?style=for-the-badge&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/Backup_&_Recovery-008080?style=for-the-badge&logo=save&logoColor=white" />
 
-    </td>
-    <td width="50%">
+### **NETWORKING & SECURITY**
+<img src="https://img.shields.io/badge/TCP/IP-Protocols-2E8B57?style=for-the-badge&logo=network&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS-Management-228B22?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTP/HTTPS-Security-008080?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/Firewall-Configuration-DC143C?style=for-the-badge&logo=firewall&logoColor=white" />
+<img src="https://img.shields.io/badge/Server-Hardening-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/SSL/TLS-Implementation-228B22?style=for-the-badge&logo=lock&logoColor=white" />
 
-### **💻 TECHNICAL STACK**
-```bash
-# Operating Systems
-▸ Linux Administration
-▸ System Automation
-▸ Performance Tuning
-
-# Scripting & Automation
-▸ Bash Scripting
-▸ Python Development
-▸ Process Optimization
-
-# Web & Database
-▸ Nginx & Apache
-▸ MySQL Management
-▸ High-Performance Config
-```
-
-### **🌐 NETWORKING**
-```bash
-# Core Concepts
-▸ TCP/IP Protocols
-▸ DNS Management
-▸ HTTP/HTTPS
-▸ Firewall Config
-```
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ## 📊 **CERTIFICATIONS**
 
@@ -123,18 +102,22 @@
 
 ## 🚀 **KEY PROJECTS**
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td width="33%" align="center">
       <h3>🤖 Automated Nginx Setup</h3>
       <p><em>Bash script for production-ready Nginx web servers</em></p>
       <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-Production-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
     <td width="33%" align="center">
       <h3>⚡ System Admin Scripts</h3>
       <p><em>Repository of automation scripts for system administration</em></p>
       <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
     <td width="33%" align="center">
@@ -142,9 +125,12 @@
       <p><em>Shopware 6 & Magento on LEMP stack</em></p>
       <img src="https://img.shields.io/badge/Magento-eCommerce-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
       <img src="https://img.shields.io/badge/Shopware-6-DA0A13?style=for-the-badge&logo=shopware&logoColor=white" />
+      <img src="https://img.shields.io/badge/LEMP-Stack-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ## 📚 **EDUCATION & QUALIFICATIONS**
 
