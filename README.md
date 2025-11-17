@@ -162,9 +162,9 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-91danny.github.io-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://91danny.github.io)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-91Danny-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/91Danny)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Deepak_Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Deepak_Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-shinde-a94199149/)
 [![Email](https://img.shields.io/badge/📧_Email-Deepaksh027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Deepaksh027@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_Phone-+91_9172964923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919172964923)
+[![Phone](https://img.shields.io/badge/📞_Phone-+91_917xxxxxx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919172964923)
 
 </div>
 
