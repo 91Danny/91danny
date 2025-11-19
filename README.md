@@ -6,7 +6,7 @@
 <!-- Location & Contact -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Nashik,India-2E8B57?style=for-the-badge&logo=map-marker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-+91_9172964923-008080?style=for-the-badge&logo=phone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-+91_91729xxxxx-008080?style=for-the-badge&logo=phone&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-Deepaksh027@gmail.com-228B22?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
