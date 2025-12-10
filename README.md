@@ -1,3 +1,5 @@
+# 🖥️ Deepak Narayan Shinde
+
 <div align="center">
 
 <!-- Professional Header -->
@@ -6,7 +8,7 @@
 <!-- Location & Contact -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Nashik,India-2E8B57?style=for-the-badge&logo=map-marker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-+91_91729xxxxx-008080?style=for-the-badge&logo=phone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-+91_9172964923-008080?style=for-the-badge&logo=phone&logoColor=white" />
   <img src="https://img.shields.io/badge/Email-Deepaksh027@gmail.com-228B22?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
@@ -18,51 +20,38 @@
 
 ## 📋 **PROFESSIONAL SUMMARY**
 
-> System Administrator with a diverse technical background, specializing in eCommerce infrastructure for Magento and Shopware. Proven skills in Linux, automation, and performance optimization for high-traffic online stores.
+> System Administrator with a diverse technical background, specializing in eCommerce infrastructure for Magento. Proven skills in Linux, automation, and performance optimization for high-traffic online stores.
 
 ## 🛠 **TECHNICAL EXPERTISE**
 
 <div align="center">
 
-### **INFRASTRUCTURE & PLATFORMS**
-<img src="https://img.shields.io/static/v1?label=CI%20CD&message=pipelines&color=8a42cf&style=for-the-badge&logo=magento&logoColor=white" />
+### **eCOMMERCE PLATFORMS & CONTROL PANELS**
 <img src="https://img.shields.io/badge/Magento-Administration-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopware-Deployment-DA0A13?style=for-the-badge&logo=shopware&logoColor=white" />
-<img src="https://img.shields.io/badge/LEMP-Stack_Expert-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopware-Deployment-189EFF?style=for-the-badge&logo=shopware&logoColor=white" />
 <img src="https://img.shields.io/badge/cPanel/WHM-Professional-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Hosting-Management-008080?style=for-the-badge&logo=server&logoColor=white" />
-<img src="https://img.shields.io/badge/Server-Administration-228B22?style=for-the-badge&logo=server&logoColor=white" />
-
-### **CLOUD & CERTIFICATIONS**
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-Infrastructure-0078D4?style=for-the-badge&logo=cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Scalable-Deployments-2E8B57?style=for-the-badge&logo=scale&logoColor=white" />
 
 ### **OPERATING SYSTEMS & SCRIPTING**
 <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/System-Automation-008080?style=for-the-badge&logo=terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance-Tuning-DC143C?style=for-the-badge&logo=speedtest&logoColor=white" />
-<img src="https://img.shields.io/badge/Process-Optimization-228B22?style=for-the-badge&logo=settings&logoColor=white" />
 
 ### **WEB SERVERS & DATABASES**
 <img src="https://img.shields.io/badge/Nginx-Configuration-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache-Optimization-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-Administration-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/High_Performance-Setup-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-Optimization-2E8B57?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/Backup_&_Recovery-008080?style=for-the-badge&logo=save&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-Database_Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/LEMP-Stack_Expert-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
 
-### **NETWORKING & SECURITY**
+### **CI/CD & AUTOMATION**
+<img src="https://img.shields.io/badge/CI/CD-Pipeline_Design-8a42cf?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-Implementation-228B22?style=for-the-badge&logo=automation&logoColor=white" />
+
+### **NETWORKING**
 <img src="https://img.shields.io/badge/TCP/IP-Protocols-2E8B57?style=for-the-badge&logo=network&logoColor=white" />
 <img src="https://img.shields.io/badge/DNS-Management-228B22?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-<img src="https://img.shields.io/badge/HTTP/HTTPS-Security-008080?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-<img src="https://img.shields.io/badge/Firewall-Configuration-DC143C?style=for-the-badge&logo=firewall&logoColor=white" />
-<img src="https://img.shields.io/badge/Server-Hardening-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/SSL/TLS-Implementation-228B22?style=for-the-badge&logo=lock&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTP/HTTPS-008080?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+<img src="https://img.shields.io/badge/Firewalls-Configuration-DC143C?style=for-the-badge&logo=firewall&logoColor=white" />
 
 </div>
 
@@ -70,36 +59,34 @@
 
 <div align="center">
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4ae52718a0ba476890673bc3f621f4a4)
-[![RHCE](https://img.shields.io/badge/Red_Hat-RHCE-EE0000?style=for-the-badge&logo=redhat&logoColor=white)]()
-[![RHCSA](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)]()
-[![WHM](https://img.shields.io/badge/WHM-Administration-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)]()
-[![cPanel](https://img.shields.io/badge/cPanel-Professional-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)]()
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4ae52718a0ba476890673bc3f621f4a4)
+[![RHCE](https://img.shields.io/badge/Red_Hat-Certified_Engineer(RHCE)-EE0000?style=for-the-badge&logo=redhat&logoColor=white)]()
+[![RHCSA](https://img.shields.io/badge/Red_Hat-Certified_System_Admin(RHCSA)-EE0000?style=for-the-badge&logo=redhat&logoColor=white)]()
+[![WHM](https://img.shields.io/badge/WHM-Administration_Certified-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)]()
+[![cPanel](https://img.shields.io/badge/cPanel-Professional_Certified-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)]()
 
 </div>
 
 ## 💼 **PROFESSIONAL EXPERIENCE**
 
 ### **🔧 System Administrator** | WebScoot.io – Managed eCommerce Hosting
-`Jan 2025 - Present` | *Managed eCommerce Infrastructure*
+`Jan 2025 - Present`
 
 - **eCommerce Management**: Managed infrastructure for 30+ simultaneous Magento stores, maintaining **99.9% uptime**
-- **Deployment & Support**: Resolved 15+ complex server tickets weekly with **95%+ client satisfaction**
-- **Performance Optimization**: Implemented high-availability solutions for eCommerce platforms
+- **Deployment & Support**: Resolved an average of 15+ complex server tickets per week, achieving a **95%+ client satisfaction score**
 
 ### **🖥️ Technical Support / System Administrator** | MilesWeb – Hosting & Domain Solutions
-`May 2023 - Dec 2024` | *Multi-Platform Hosting Support*
+`May 2023 - Dec 2024`
 
 - **Client Support**: Provided comprehensive technical support across shared hosting, VPS, dedicated servers, and cloud hosting
-- **Migration & Resolution**: Successfully migrated client websites and resolved complex server-related issues
-- **Server Administration**: Managed and secured cPanel/WHM environments with security optimizations
+- **Migration & Issue Resolution**: Successfully migrated numerous client websites and resolved complex server-related issues
+- **Server Administration**: Managed and secured cPanel/WHM environments, implementing crucial security measures and optimizing configurations
 
 ### **⚙️ Operating Engineer** | Haldex Anand India Private Limited
-`May 2019 - Sept 2022` | *Industrial Systems & Automation*
+`May 2019 - Sept 2022`
 
-- **System Support**: Supported critical operational systems and utilized automation techniques
-- **Process Improvement**: Drove efficiency through automation and cross-functional collaboration
-- **System Integrity**: Maintained overall system performance and reliability
+- Supported critical operational systems and utilized automation techniques to drive process improvements and efficiency
+- Collaborated effectively with cross-functional teams to maintain overall system integrity and performance
 
 ## 🚀 **KEY PROJECTS**
 
@@ -108,24 +95,24 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🤖 Automated Nginx Setup</h3>
-      <p><em>Bash script for production-ready Nginx web servers</em></p>
+      <h3>🤖 Automated Nginx Web Server Installation</h3>
+      <p><em>Developed Bash script for automated setup of production-ready Nginx web servers</em></p>
       <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-Production-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Automation-Setup-008080?style=for-the-badge&logo=automation&logoColor=white" />
     </td>
     <td width="33%" align="center">
-      <h3>⚡ System Admin Scripts</h3>
-      <p><em>Repository of automation scripts for system administration</em></p>
-      <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <h3>⚡ System Administration Bash Scripts</h3>
+      <p><em>Repository of robust scripts for automating common and complex system administration tasks</em></p>
       <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/System-Administration-228B22?style=for-the-badge&logo=terminal&logoColor=white" />
     </td>
     <td width="33%" align="center">
-      <h3>🛒 eCommerce Deployment</h3>
-      <p><em>Shopware 6 & Magento on LEMP stack</em></p>
+      <h3>🛒 eCommerce Platform Deployment</h3>
+      <p><em>Deployed and configured production-ready Shopware 6 and Magento on LEMP stack</em></p>
       <img src="https://img.shields.io/badge/Magento-eCommerce-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shopware-6-DA0A13?style=for-the-badge&logo=shopware&logoColor=white" />
+      <img src="https://img.shields.io/badge/Shopware-6-189EFF?style=for-the-badge&logo=shopware&logoColor=white" />
       <img src="https://img.shields.io/badge/LEMP-Stack-007ACC?style=for-the-badge&logo=linux&logoColor=white" />
     </td>
   </tr>
@@ -137,22 +124,10 @@
 
 <div align="center">
 
-| Qualification | Institution | Year |
-|---------------|-------------|------|
-| **Diploma in Electrical Engineering** | *Technical Board* | 2019 |
-| **SSC (Secondary School Certificate)** | *State Board* | 2016 |
-
-</div>
-
-## 📈 **TECHNICAL ACTIVITY**
-
-<div align="center">
-
-<!-- GitHub Activity Graph -->
-[![Deepak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=91danny&bg_color=ffffff&color=2E8B57&line=008080&point=228B22&area=true&hide_border=true)](https://github.com/91danny)
-
-<!-- Most Used Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=91danny&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=2E8B57&text_color=333)](https://github.com/91danny)
+| Qualification | Year |
+|---------------|------|
+| **Diploma in Electrical Engineering** | 2019 |
+| **SSC (Secondary School Certificate)** | 2016 |
 
 </div>
 
@@ -160,11 +135,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-91danny.github.io-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://91danny.github.io)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-91Danny-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/91Danny)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Deepak_Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-shinde-a94199149/)
 [![Email](https://img.shields.io/badge/📧_Email-Deepaksh027@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Deepaksh027@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_Phone-+91_917xxxxxx-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919172964923)
+[![Phone](https://img.shields.io/badge/📞_Phone-+91_9172964923-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919172964923)
 
 </div>
 
