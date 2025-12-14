@@ -2,7 +2,6 @@
 **System Administrator | Cloud & eCommerce Infrastructure**
 
 📍 Nashik, India  
-📧 [Email available on request] | 📞 [Phone available on request]  
 🔗 [GitHub](https://github.com/91Danny) | [LinkedIn](https://www.linkedin.com/in/deepak-shinde-a94199149/)
 
 ---
