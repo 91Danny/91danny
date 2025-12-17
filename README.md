@@ -57,9 +57,9 @@ AWS Solutions Architect | Red Hat Certified Engineer (RHCE) | Red Hat Certified 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=91danny&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=008080&text_color=333&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=91danny&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333)
+**Recent Activity:** 51 commits in the last year  
+**Languages Used:** HTML, Python, Shell, Jinja  
+**Contributions:** Open source projects and automation tools
 
 ---
 
