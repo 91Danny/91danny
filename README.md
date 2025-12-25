@@ -18,6 +18,6 @@
 * **Earlyoom**: System watchdog to prevent freezes during low memory.
 * **Neovim**: For terminal-based text editing.
 * **cpufrequtils**: For the CPU frequency scaling deamon (speedstep, throttling, ...).
-* **auto-cpufreq**: Automatic CPU speed & power optimizer. Thanks to @AdnanHodzic auto-cpufreq 
+* **auto-cpufreq**: Automatic CPU speed & power optimizer. Thanks to [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq.git) 
 
 </div>
