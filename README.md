@@ -7,3 +7,11 @@
 📍 Based In: Nashik, India
 
 </div>
+
+<div align='left'>
+
+
+# What have I installed on My Ubuntu 24 LTS
+Earlyoom
+
+</div>
