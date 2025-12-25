@@ -6,13 +6,16 @@
 
 📍 Based In: Nashik, India
 
-</div>
-
-<div align='centre'>
-
+---
 
 # What have I installed on My Ubuntu 24 LTS
-<div align='left'>
-Earlyoom
+
 </div>
+
+<div align="left">
+
+### Core Tools
+* **Earlyoom**: System watchdog to prevent freezes during low memory.
+* **Neovim**: For terminal-based text editing.
+
 </div>
