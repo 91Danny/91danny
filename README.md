@@ -8,10 +8,11 @@
 
 </div>
 
-<div align='left'>
+<div align='centre'>
 
 
 # What have I installed on My Ubuntu 24 LTS
+<div align='left'>
 Earlyoom
-
+</div>
 </div>
