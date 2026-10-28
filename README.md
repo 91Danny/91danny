@@ -8,7 +8,7 @@
 
 ---
 
-# What have I installed on My Ubuntu 24 LTS
+# What have I installed on My 7.2.8-9-omarchy
 
 </div>
 
